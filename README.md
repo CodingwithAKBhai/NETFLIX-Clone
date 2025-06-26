@@ -5,6 +5,3 @@ A responsive Netflix homepage clone using HTML & CSS.
 - Responsive design
 - Netflix-style UI
 - Pure CSS (no JavaScript)
-
-## Live Demo
-[View here](https://codingwithakbhai.github.io/NETFLIX-Clone/)
